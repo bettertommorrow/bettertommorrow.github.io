@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>jwly.cf/tags/index.html</loc>
+    
+    <lastmod>2019-07-05T10:08:17.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>jwly.cf/2019/07/03/jwly133/</loc>
     
     <lastmod>2019-07-05T07:39:02.000Z</lastmod>
@@ -2147,13 +2154,6 @@
     <loc>jwly.cf/search/index.html</loc>
     
     <lastmod>2019-07-03T00:07:39.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>jwly.cf/tags/index.html</loc>
-    
-    <lastmod>2019-07-03T00:00:39.000Z</lastmod>
     
   </url>
   
